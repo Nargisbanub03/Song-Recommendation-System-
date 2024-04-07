@@ -1,1 +1,7 @@
-# Song-Recommendation-System-
+# Song-Recommendation-System-</br>
+
+**POC for Recommendation Engine for a Yoga, Relaxation or Devotional Songs Music application targeted for Indian users** </br>
+
+Business objective- The aim of this project is to build a feature of recommendation system to support a music app. As the first phase we need to develop the proof of concept to make the client understand how effective the feature could be.</br>
+
+Sample Data Set Details: Data needs to be collected, as the client is not having a current user base. We need to collect the data from different sources for proof of concept. </br>
